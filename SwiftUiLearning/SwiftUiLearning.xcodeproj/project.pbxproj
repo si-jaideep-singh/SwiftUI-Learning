@@ -85,7 +85,6 @@
 			isa = PBXGroup;
 			children = (
 				81547B9D2DB7645100A99544 /* SwiftUiLearning */,
-				81547BAE2DB7645500A99544 /* SwiftUiLearningTests */,
 				81547BB82DB7645500A99544 /* SwiftUiLearningUITests */,
 				81547B9C2DB7645100A99544 /* Products */,
 			);
@@ -109,10 +108,11 @@
 				81547BC82DB7652F00A99544 /* TextViewLearning.swift */,
 				81547BCA2DB76DBC00A99544 /* ShapesLearning.swift */,
 				81547BCC2DB77A6800A99544 /* ColorsLearing.swift */,
+				81547BD02DB7817900A99544 /* Images.swift */,
+				81547BAE2DB7645500A99544 /* SwiftUiLearningTests */,
 				81547BA22DB7645500A99544 /* Assets.xcassets */,
 				81547BA42DB7645500A99544 /* Preview Content */,
 				81547BCE2DB77D0600A99544 /* GradientLearning.swift */,
-				81547BD02DB7817900A99544 /* Images.swift */,
 			);
 			path = SwiftUiLearning;
 			sourceTree = "<group>";
