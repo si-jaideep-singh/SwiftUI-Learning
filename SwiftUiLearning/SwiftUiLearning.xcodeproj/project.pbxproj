@@ -23,6 +23,7 @@
 		81547BD52DB7AA3C00A99544 /* StacksLearing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BD42DB7AA3C00A99544 /* StacksLearing.swift */; };
 		81547BD72DB7AD8800A99544 /* PaddingLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BD62DB7AD8800A99544 /* PaddingLearning.swift */; };
 		81547BD92DB7B25000A99544 /* ForEachLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BD82DB7B25000A99544 /* ForEachLoop.swift */; };
+		81547BDB2DB7B55F00A99544 /* ScrollViewLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BDA2DB7B55F00A99544 /* ScrollViewLearning.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		81547BD42DB7AA3C00A99544 /* StacksLearing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksLearing.swift; sourceTree = "<group>"; };
 		81547BD62DB7AD8800A99544 /* PaddingLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingLearning.swift; sourceTree = "<group>"; };
 		81547BD82DB7B25000A99544 /* ForEachLoop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoop.swift; sourceTree = "<group>"; };
+		81547BDA2DB7B55F00A99544 /* ScrollViewLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewLearning.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				81547BCC2DB77A6800A99544 /* ColorsLearing.swift */,
 				81547BA02DB7645100A99544 /* ContentView.swift */,
 				81547BD82DB7B25000A99544 /* ForEachLoop.swift */,
+				81547BDA2DB7B55F00A99544 /* ScrollViewLearning.swift */,
 				81547BCE2DB77D0600A99544 /* GradientLearning.swift */,
 				81547BD02DB7817900A99544 /* Images.swift */,
 				81547BD62DB7AD8800A99544 /* PaddingLearning.swift */,
@@ -289,6 +292,7 @@
 				81547BA12DB7645100A99544 /* ContentView.swift in Sources */,
 				81547BD92DB7B25000A99544 /* ForEachLoop.swift in Sources */,
 				81547B9F2DB7645100A99544 /* SwiftUiLearningApp.swift in Sources */,
+				81547BDB2DB7B55F00A99544 /* ScrollViewLearning.swift in Sources */,
 				81547BC92DB7652F00A99544 /* TextViewLearning.swift in Sources */,
 				81547BCF2DB77D0600A99544 /* GradientLearning.swift in Sources */,
 				81547BCD2DB77A6800A99544 /* ColorsLearing.swift in Sources */,
