@@ -20,6 +20,7 @@
 		81547BCF2DB77D0600A99544 /* GradientLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BCE2DB77D0600A99544 /* GradientLearning.swift */; };
 		81547BD12DB7817900A99544 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BD02DB7817900A99544 /* Images.swift */; };
 		81547BD32DB7860400A99544 /* Background&Overlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BD22DB7860400A99544 /* Background&Overlays.swift */; };
+		81547BD52DB7AA3C00A99544 /* StacksLearing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BD42DB7AA3C00A99544 /* StacksLearing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		81547BCE2DB77D0600A99544 /* GradientLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientLearning.swift; sourceTree = "<group>"; };
 		81547BD02DB7817900A99544 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		81547BD22DB7860400A99544 /* Background&Overlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Background&Overlays.swift"; sourceTree = "<group>"; };
+		81547BD42DB7AA3C00A99544 /* StacksLearing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksLearing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				81547BA42DB7645500A99544 /* Preview Content */,
 				81547BCE2DB77D0600A99544 /* GradientLearning.swift */,
 				81547BD22DB7860400A99544 /* Background&Overlays.swift */,
+				81547BD42DB7AA3C00A99544 /* StacksLearing.swift */,
 			);
 			path = SwiftUiLearning;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 				81547BCD2DB77A6800A99544 /* ColorsLearing.swift in Sources */,
 				81547BCB2DB76DBC00A99544 /* ShapesLearning.swift in Sources */,
 				81547BD32DB7860400A99544 /* Background&Overlays.swift in Sources */,
+				81547BD52DB7AA3C00A99544 /* StacksLearing.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
