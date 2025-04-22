@@ -15,6 +15,7 @@
 		81547BBA2DB7645500A99544 /* SwiftUiLearningUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BB92DB7645500A99544 /* SwiftUiLearningUITests.swift */; };
 		81547BBC2DB7645500A99544 /* SwiftUiLearningUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BBB2DB7645500A99544 /* SwiftUiLearningUITestsLaunchTests.swift */; };
 		81547BC92DB7652F00A99544 /* TextViewLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BC82DB7652F00A99544 /* TextViewLearning.swift */; };
+		81547BCB2DB76DBC00A99544 /* ShapesLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BCA2DB76DBC00A99544 /* ShapesLearning.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		81547BB92DB7645500A99544 /* SwiftUiLearningUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiLearningUITests.swift; sourceTree = "<group>"; };
 		81547BBB2DB7645500A99544 /* SwiftUiLearningUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiLearningUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		81547BC82DB7652F00A99544 /* TextViewLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewLearning.swift; sourceTree = "<group>"; };
+		81547BCA2DB76DBC00A99544 /* ShapesLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesLearning.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				81547B9E2DB7645100A99544 /* SwiftUiLearningApp.swift */,
 				81547BA02DB7645100A99544 /* ContentView.swift */,
 				81547BC82DB7652F00A99544 /* TextViewLearning.swift */,
+				81547BCA2DB76DBC00A99544 /* ShapesLearning.swift */,
 				81547BA22DB7645500A99544 /* Assets.xcassets */,
 				81547BA42DB7645500A99544 /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 				81547BA12DB7645100A99544 /* ContentView.swift in Sources */,
 				81547B9F2DB7645100A99544 /* SwiftUiLearningApp.swift in Sources */,
 				81547BC92DB7652F00A99544 /* TextViewLearning.swift in Sources */,
+				81547BCB2DB76DBC00A99544 /* ShapesLearning.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
