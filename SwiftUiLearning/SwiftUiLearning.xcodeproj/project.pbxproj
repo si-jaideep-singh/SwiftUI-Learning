@@ -25,6 +25,7 @@
 		81547BD92DB7B25000A99544 /* ForEachLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BD82DB7B25000A99544 /* ForEachLoop.swift */; };
 		81547BDB2DB7B55F00A99544 /* ScrollViewLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BDA2DB7B55F00A99544 /* ScrollViewLearning.swift */; };
 		81547BDD2DB8B42E00A99544 /* ButtonsLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BDC2DB8B42E00A99544 /* ButtonsLearning.swift */; };
+		81547BDF2DB8C5C800A99544 /* StateLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BDE2DB8C5C800A99544 /* StateLearning.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		81547BD82DB7B25000A99544 /* ForEachLoop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoop.swift; sourceTree = "<group>"; };
 		81547BDA2DB7B55F00A99544 /* ScrollViewLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewLearning.swift; sourceTree = "<group>"; };
 		81547BDC2DB8B42E00A99544 /* ButtonsLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsLearning.swift; sourceTree = "<group>"; };
+		81547BDE2DB8C5C800A99544 /* StateLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateLearning.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				81547BD22DB7860400A99544 /* Background&Overlays.swift */,
 				81547BCC2DB77A6800A99544 /* ColorsLearing.swift */,
 				81547BDC2DB8B42E00A99544 /* ButtonsLearning.swift */,
+				81547BDE2DB8C5C800A99544 /* StateLearning.swift */,
 				81547BA02DB7645100A99544 /* ContentView.swift */,
 				81547BD82DB7B25000A99544 /* ForEachLoop.swift */,
 				81547BDA2DB7B55F00A99544 /* ScrollViewLearning.swift */,
@@ -297,6 +300,7 @@
 				81547B9F2DB7645100A99544 /* SwiftUiLearningApp.swift in Sources */,
 				81547BDB2DB7B55F00A99544 /* ScrollViewLearning.swift in Sources */,
 				81547BC92DB7652F00A99544 /* TextViewLearning.swift in Sources */,
+				81547BDF2DB8C5C800A99544 /* StateLearning.swift in Sources */,
 				81547BCF2DB77D0600A99544 /* GradientLearning.swift in Sources */,
 				81547BCD2DB77A6800A99544 /* ColorsLearing.swift in Sources */,
 				81547BCB2DB76DBC00A99544 /* ShapesLearning.swift in Sources */,
