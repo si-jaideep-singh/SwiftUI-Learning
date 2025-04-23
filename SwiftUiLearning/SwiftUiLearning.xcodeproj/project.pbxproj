@@ -26,6 +26,7 @@
 		81547BDB2DB7B55F00A99544 /* ScrollViewLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BDA2DB7B55F00A99544 /* ScrollViewLearning.swift */; };
 		81547BDD2DB8B42E00A99544 /* ButtonsLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BDC2DB8B42E00A99544 /* ButtonsLearning.swift */; };
 		81547BDF2DB8C5C800A99544 /* StateLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BDE2DB8C5C800A99544 /* StateLearning.swift */; };
+		81547BE12DB8D9BA00A99544 /* ExtractSubviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BE02DB8D9BA00A99544 /* ExtractSubviews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		81547BDA2DB7B55F00A99544 /* ScrollViewLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewLearning.swift; sourceTree = "<group>"; };
 		81547BDC2DB8B42E00A99544 /* ButtonsLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsLearning.swift; sourceTree = "<group>"; };
 		81547BDE2DB8C5C800A99544 /* StateLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateLearning.swift; sourceTree = "<group>"; };
+		81547BE02DB8D9BA00A99544 /* ExtractSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				81547BCC2DB77A6800A99544 /* ColorsLearing.swift */,
 				81547BDC2DB8B42E00A99544 /* ButtonsLearning.swift */,
 				81547BDE2DB8C5C800A99544 /* StateLearning.swift */,
+				81547BE02DB8D9BA00A99544 /* ExtractSubviews.swift */,
 				81547BA02DB7645100A99544 /* ContentView.swift */,
 				81547BD82DB7B25000A99544 /* ForEachLoop.swift */,
 				81547BDA2DB7B55F00A99544 /* ScrollViewLearning.swift */,
@@ -306,6 +309,7 @@
 				81547BCB2DB76DBC00A99544 /* ShapesLearning.swift in Sources */,
 				81547BDD2DB8B42E00A99544 /* ButtonsLearning.swift in Sources */,
 				81547BD32DB7860400A99544 /* Background&Overlays.swift in Sources */,
+				81547BE12DB8D9BA00A99544 /* ExtractSubviews.swift in Sources */,
 				81547BD52DB7AA3C00A99544 /* StacksLearing.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
