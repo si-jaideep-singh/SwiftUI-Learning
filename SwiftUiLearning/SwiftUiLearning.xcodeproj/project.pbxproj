@@ -29,6 +29,7 @@
 		81547BE12DB8D9BA00A99544 /* ExtractSubviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BE02DB8D9BA00A99544 /* ExtractSubviews.swift */; };
 		81547BE52DB8DD5C00A99544 /* BindingLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BE42DB8DD5C00A99544 /* BindingLearning.swift */; };
 		81547BE72DB8F6FA00A99544 /* AnimationsLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BE62DB8F6FA00A99544 /* AnimationsLearning.swift */; };
+		81547BE92DB8FD0D00A99544 /* AnimationsTiming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BE82DB8FD0D00A99544 /* AnimationsTiming.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		81547BE02DB8D9BA00A99544 /* ExtractSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviews.swift; sourceTree = "<group>"; };
 		81547BE42DB8DD5C00A99544 /* BindingLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingLearning.swift; sourceTree = "<group>"; };
 		81547BE62DB8F6FA00A99544 /* AnimationsLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsLearning.swift; sourceTree = "<group>"; };
+		81547BE82DB8FD0D00A99544 /* AnimationsTiming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsTiming.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 				81547BA42DB7645500A99544 /* Preview Content */,
 				81547BE42DB8DD5C00A99544 /* BindingLearning.swift */,
 				81547BE62DB8F6FA00A99544 /* AnimationsLearning.swift */,
+				81547BE82DB8FD0D00A99544 /* AnimationsTiming.swift */,
 			);
 			path = SwiftUiLearning;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 				81547BCB2DB76DBC00A99544 /* ShapesLearning.swift in Sources */,
 				81547BE52DB8DD5C00A99544 /* BindingLearning.swift in Sources */,
 				81547BDD2DB8B42E00A99544 /* ButtonsLearning.swift in Sources */,
+				81547BE92DB8FD0D00A99544 /* AnimationsTiming.swift in Sources */,
 				81547BD32DB7860400A99544 /* Background&Overlays.swift in Sources */,
 				81547BE12DB8D9BA00A99544 /* ExtractSubviews.swift in Sources */,
 				81547BD52DB7AA3C00A99544 /* StacksLearing.swift in Sources */,
