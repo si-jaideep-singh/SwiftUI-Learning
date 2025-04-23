@@ -28,6 +28,7 @@
 		81547BDF2DB8C5C800A99544 /* StateLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BDE2DB8C5C800A99544 /* StateLearning.swift */; };
 		81547BE12DB8D9BA00A99544 /* ExtractSubviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BE02DB8D9BA00A99544 /* ExtractSubviews.swift */; };
 		81547BE52DB8DD5C00A99544 /* BindingLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BE42DB8DD5C00A99544 /* BindingLearning.swift */; };
+		81547BE72DB8F6FA00A99544 /* AnimationsLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81547BE62DB8F6FA00A99544 /* AnimationsLearning.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,7 @@
 		81547BDE2DB8C5C800A99544 /* StateLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateLearning.swift; sourceTree = "<group>"; };
 		81547BE02DB8D9BA00A99544 /* ExtractSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviews.swift; sourceTree = "<group>"; };
 		81547BE42DB8DD5C00A99544 /* BindingLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingLearning.swift; sourceTree = "<group>"; };
+		81547BE62DB8F6FA00A99544 /* AnimationsLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsLearning.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 				81547BA22DB7645500A99544 /* Assets.xcassets */,
 				81547BA42DB7645500A99544 /* Preview Content */,
 				81547BE42DB8DD5C00A99544 /* BindingLearning.swift */,
+				81547BE62DB8F6FA00A99544 /* AnimationsLearning.swift */,
 			);
 			path = SwiftUiLearning;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81547BE72DB8F6FA00A99544 /* AnimationsLearning.swift in Sources */,
 				81547BD12DB7817900A99544 /* Images.swift in Sources */,
 				81547BD72DB7AD8800A99544 /* PaddingLearning.swift in Sources */,
 				81547BA12DB7645100A99544 /* ContentView.swift in Sources */,
